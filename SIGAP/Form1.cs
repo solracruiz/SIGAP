@@ -16,5 +16,10 @@ namespace SIGAP
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("El oscar se la come TODA!!!");
+        }
     }
 }
