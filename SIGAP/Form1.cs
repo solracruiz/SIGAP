@@ -19,7 +19,7 @@ namespace SIGAP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("El oscar se la come TODA!!!");
+            MessageBox.Show("el oscar se la come toda");
         }
     }
 }
